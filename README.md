@@ -10,7 +10,7 @@
   <img align="center" alt="Joao-Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Joao-SASS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
-
+<div style="display: inline_block;" align="center">-------------------------------------------------------</div>
 <div align="center">   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redneckvitor&layout=compact&hide_border=true&title_color=dbdcde&text_color=dbdcde&bg_color=303030" />
 </div>
