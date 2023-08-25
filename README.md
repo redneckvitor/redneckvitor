@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
 
-Desenvolvedor Python e Front-end Web. <br>Python: Django / Flask e aplicações desktop.<br>Front-end Web: React/Bootstrap/SASS - HTML / CSS / Javascript<br>Adoro desenvolver aplicações, sejam elas web ou desktop, e também sou designer<br>
+Desenvolvedor Python e Front-end Web. <br>Python: Django / Flask e aplicações desktop.<br>Front-end Web: React / Bootstrap / SASS - HTML / CSS / Javascript<br>Adoro desenvolver aplicações, sejam elas web ou desktop, e também sou designer<br>
 
 
 # 💻 Tecnologias que eu uso:
