@@ -24,8 +24,10 @@ Desenvolvedor Python e Front-end Web. <br>Python: Django/Flask e aplicações de
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=redneckvitor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-![](https://github-readme-stats.vercel.app/api?username=redneckvitor&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=redneckvitor&theme=dark&hide_border=true)<br/>
+## 📞📧 Entre em contato comigo 
+
+Meu email: jvitor17@protonmail.com
+
 
 
 
