@@ -24,9 +24,6 @@ Desenvolvedor Python e Front-end Web. <br>Python: Django / Flask e aplicações 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=redneckvitor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📞📧 Entre em contato comigo 
-
-Meu email: jvitor17@protonmail.com
 
 
 
